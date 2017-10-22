@@ -5,4 +5,4 @@ function happyHolidays(){
 }
 
 
-happyHolidays()];
+console.log(happyHolidays());
