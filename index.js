@@ -12,6 +12,6 @@ function happyHolidayTo(holiday, name){
   return `Happy ${holiday}, ${name}!`;
 }
 
-var result = happyHolidaysTo("Jorb");
+var result = happyHolidayTo("Dnomla","Bort");
 
 console.log(result);
