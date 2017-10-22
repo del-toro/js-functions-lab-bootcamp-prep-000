@@ -1,5 +1,8 @@
 // write your code below!
 
-happyHolidays(){
+function happyHolidays(){
   retrun "Happy holidays!";
 }
+
+
+happyHolidays()];
