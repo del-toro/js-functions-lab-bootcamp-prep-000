@@ -8,4 +8,6 @@ function happyHolidaysTo(name){
   return "Happy holidays, ${name}!";
 }
 
-console.log(happyHolidaysTo(Jorb));
+var result = happyHolidaysTo(Jorb);
+
+console.log(result);
