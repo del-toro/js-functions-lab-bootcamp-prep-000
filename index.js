@@ -16,6 +16,6 @@ function holidayCountdown(days,holiday){
   return `It is ${days} until ${holiday}`;
 }
 
-var result = holidayCountdown(56, Dnomla);
+var result = holidayCountdown("56", "Dnomla");
 
 console.log(result);
