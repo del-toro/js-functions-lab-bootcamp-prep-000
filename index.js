@@ -18,4 +18,3 @@ function holidayCountdown(holiday,days){
 
 var result = holidayCountdown("56", "Dnomla");
 
-console.log(result);
