@@ -12,6 +12,10 @@ function happyHolidayTo(holiday, name){
   return `Happy ${holiday}, ${name}!`;
 }
 
+function holidayCountdown(days,holiday){
+  return `It is ${days} until ${holiday}`;
+}
+
 var result = happyHolidayTo("Dnomla","Bort");
 
 console.log(result);
